@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/package.json</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/database.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/models/Producto.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/controllers/productoController.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/routes/productoRoutes.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/index.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/app.js</file>
+            <file>file:/C:/Users/usuario/Desktop/DailyRoastWeb/backend/tests/producto.test.js</file>
+        </group>
+    </open-files>
+</project-private>
