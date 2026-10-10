@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:3001/api/productos';
+const API_URL = 'https://daily-roast-web.vercel.app/api/productos';
 
 // Listar productos
 export const listarProductos = () => {
